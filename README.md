@@ -1,5 +1,8 @@
 # gp_face_to_face_appointments
 
+![GPbars](https://user-images.githubusercontent.com/61186777/93495188-c09eb280-f905-11ea-8eec-272513157593.png)
+
+
 In September 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-54180359) how the number of GP appointments had reduced post-lockdown, with concerns from charities that some elderly people felt their GP was not "open for business".
 
 It followed [a warning that week from the NHS](https://www.bbc.co.uk/news/health-54138915) that doctors should make sure face-to-face appointments were available where medically needed or face fines.
