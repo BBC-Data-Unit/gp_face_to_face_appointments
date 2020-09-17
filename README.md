@@ -4,6 +4,8 @@ In September 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/new
 
 It followed [a warning that week from the NHS](https://www.bbc.co.uk/news/health-54138915) that doctors should make sure face-to-face appointments were available where medically needed or face fines.
 
+![Surgeries](https://user-images.githubusercontent.com/61186777/93494815-5b4ac180-f905-11ea-9716-4e8dd88690a8.png)
+
 The Royal College of GPs said those in the profession had been left "bemused" and "angry" from the NHS England letter, however, as previous guidance had been to limit in-person contact with patients.
 
 There were concerns over patients 'coughing and spluttering' in waiting rooms.
