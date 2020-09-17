@@ -14,8 +14,8 @@ We found that in no CCG area in England were GPs offering the same percentage of
 
 We used data from [NHS Digital] on GP appointments (https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice) and collated it in R.
 Graphics were made by the BBC England Data Unit for BBC news online.
-The script to bring the data together and output the shared sheet is here:
-*
+The script to combine data and output the shared sheet is here:
+* [gg_app_core_work.R](https://github.com/BBC-Data-Unit/gp_face_to_face_appointments/blob/master/gp_app_core_work.R)
 
 #Data and story pack
 We provide a story pack including expert quotes, background information and analysis to partners and the public.
