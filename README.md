@@ -17,7 +17,7 @@ We found that in no CCG area in England were GPs offering the same percentage of
 
 ## Methodology
 
-We used data from [NHS Digital] on GP appointments (https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice) and collated it in R.
+We used data from [NHS Digital on GP appointments](https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice) and collated them in R.
 Graphics were made by the BBC England Data Unit for BBC news online.
 The script to combine data and output the shared sheet is here:
 * [gg_app_core_work.R](https://github.com/BBC-Data-Unit/gp_face_to_face_appointments/blob/master/gp_app_core_work.R)
@@ -37,3 +37,6 @@ The Shared Data Unit makes data available to the wider news industry as part of 
 * Isle of Wight Observer: [Dramatic fall in face-to-face GP appointments](https://iwobserver.co.uk/dramatic-fall-in-face-to-face-gp-appointments/) *21 September 2020*
 * Wigan Today: [Face-to-face appointments with GPs plummet](https://www.wigantoday.net/health/face-face-appointments-gps-plummet-2980147) *23 September 2020*
 
+## Related repos
+
+You can [find all coronavirus-related stories by the BBC data units tagged 'coronavirus' here](https://github.com/search?q=topic%3Acoronavirus+org%3ABBC-Data-Unit&type=Repositories)
